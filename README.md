@@ -2,7 +2,7 @@
 <h3 align="center"> | Back-End & front-end Developer</h3>
 
 <p align="center">
-  <a href="mailto:jkrisnarane@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="ArtinRahmanian15@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </p>
 <img align= "right" width= "240" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
@@ -10,7 +10,7 @@
 
 <div align="left">
 <fieldset style="border: 2px solid #F82A94; border-radius: 10px; padding: 20px; max-width: 800px;">
-  <legend align="left"><h3>👩🏻‍💻 About Me</h3></legend>
+  <legend align="left"><h3> About Me</h3></legend>
 
   <em>
 I am a Stuend and Studying <strong>Frontend & Back end</strong>  This read me is to show what i know and will use later on in life for my employers</p>
@@ -41,14 +41,7 @@ I am a Stuend and Studying <strong>Frontend & Back end</strong>  This read me is
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd>
-    <kbd>Libraries/Frameworks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet"/>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" /> 
-    <img width="30px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" /> 
-  </kbd>
-  <kbd>
+
     <kbd>Other</kbd>
     <br>
     <br>
