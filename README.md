@@ -17,7 +17,7 @@ I am a Stuend and Studying <strong>Frontend & Back end</strong>  This read me is
   </em> 
   <br>
 <div align= "center">
-  <img src="https://i.pinimg.com/1200x/62/39/e8/6239e837121dcd70fd4682e431550953.jpg" width="50"/> <b><i>Technologies in learning</i></b> 
+  <img src="https://i.pinimg.com/1200x/62/39/e8/6239e837121dcd70fd4682e431550953.jpg" width="50"/>
 </div>
 
 <br>
