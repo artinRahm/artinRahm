@@ -41,7 +41,7 @@ I am a Stuend and Studying <strong>Frontend & Back end</strong>  This read me is
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   </kbd>
   <kbd>
-
+  <kbd>
     <kbd>Other</kbd>
     <br>
     <br>
