@@ -13,7 +13,7 @@
   <legend align="left"><h3> About Me</h3></legend>
 
   <em>
-I am a Stuend and Studying <strong>Frontend & Back end</strong>  This read me is to show what i know and will use later on in life for my employers</p>
+I am a student and Studying <strong>Frontend & Back end</strong>  This read me is to show what i know and will use later on in life for my employers</p>
   </em> 
   <br>
 <div align= "center">
