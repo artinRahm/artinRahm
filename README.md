@@ -17,7 +17,7 @@ I am a Stuend and Studying <strong>Frontend & Back end</strong>  This read me is
   </em> 
   <br>
 <div align= "center">
-  <img src="https://avatars.githubusercontent.com/u/225114366?v=4" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/225114366?v=4" width="300"/>
 </div>
 
 <br>
