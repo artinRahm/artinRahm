@@ -10,5 +10,12 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
     
-[![](https://img.shields.io/badge/osu!-ff66ab)]()
+<br><br>
+
+<a href="https://discord.com">
+  <img src="https://cdn.simpleicons.org/discord/5865F2"
+       height="40"
+       alt="Discord">
+</a>
+
 </div>
