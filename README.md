@@ -7,7 +7,7 @@
     🎮 Music • Games • Anime • Code • Art
 </pre>
 <br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media.tenor.com/ZZu2QC-efdUAAAAm/cute-cat-white.webp" height="40" />
 <br><br>
     
 <br><br>
