@@ -1,17 +1,16 @@
-<div align="center">
+<p align="center">
+  <a href="https://yuna0x0.com">
+    <img src="https://cdn.yuna0x0.com/yuna/img/72408310_p5.webp" alt="Banner" width="50%">
+  </a>
+</p>
 
-<img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+I+am+Artin+a+14rl+coder" alt="Typing SVG"  width="70%" />
-<br><br>
-<pre>
-    💻 System programming languages • DevOps 
-    🎮 Music • Games • Anime • Code • Art
-</pre>
+<h1 align="center">hi, i'm <a href="https://yuna0x0.com](https://claudevsgpt.artinrahmanian15.workers.dev/claude)">artin</a>!</h1>
+<p align="center">
+  </a>
+</p>
+<h3 align="center">welcome to my profile </h3>
 
+<p align="center">i'm a website dev and game dev～☆</p>
 
-<a href="https://discord.com">
-  <img src="https://cdn.simpleicons.org/discord/5865F2"
-       height="40"
-       alt="Discord">
-</a>
+credit to yuna0x0 for the read.md :)
 
-</div>
